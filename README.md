@@ -44,4 +44,4 @@ A console-based Book Store Management System developed in C++ that allows users 
 ## Author
 
 Liyabona Miya
-Walter Sisulu University
+iYunivesithi Walter Sisulu
